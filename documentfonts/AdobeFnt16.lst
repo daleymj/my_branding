@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SimplifiedArabic-Bold
+FamilyName:Simplified Arabic
+StyleName:Bold
+FullName:Simplified Arabic Bold
+MenuName:Simplified Arabic
+StyleBits:2
+FamilyNameNative:Simplified Arabic
+StyleNameNative:Bold
+FullNameNative:Simplified Arabic Bold
+WritingScript:Arabic
+OutlineFileName:C:\Users\Morning\Desktop\Profile\Portfolio\finals\portfolio_package\Document fonts\simpbdo.ttf
+DataFormat:sfntData
+FileLength:116376
+FileModTime:1244662993
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Simplified Arabic Bold
+NameArray:0,Win,1,Simplified Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SimplifiedArabic
+FamilyName:Simplified Arabic
+StyleName:Regular
+FullName:Simplified Arabic
+MenuName:Simplified Arabic
+StyleBits:0
+FamilyNameNative:Simplified Arabic
+StyleNameNative:Regular
+FullNameNative:Simplified Arabic Regular
+WritingScript:Arabic
+OutlineFileName:C:\Users\Morning\Desktop\Profile\Portfolio\finals\portfolio_package\Document fonts\simpo.ttf
+DataFormat:sfntData
+FileLength:124628
+FileModTime:1244662993
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Simplified Arabic
+NameArray:0,Win,1,Simplified Arabic
+%EndFont
+
